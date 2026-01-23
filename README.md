@@ -67,8 +67,7 @@ Ideal for school/college reports, education analytics practice, or portfolio dem
 5. Hover over charts for exact values
 6. Print or export as PDF for reports
 
-## 📸 Screenshots
-
+## 📸 Dashboard
 ![image](![Student Performance png](https://github.com/Shital9090/Student-Performance-Analysis-/blob/main/Student_Analysis_Dashbord.png)
 
 
