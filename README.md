@@ -68,13 +68,9 @@ Ideal for school/college reports, education analytics practice, or portfolio dem
 
 ## 📸 Screenshots
 
-(Add 4–5 screenshots of your Excel file in `/screenshots/` folder)
+![image](![Student Performance png]()
+)
 
-| Full Dashboard | School Comparison Chart | Subject Pie Chart | City & Gender View | Attendance Impact |
-|----------------|------------------------|-------------------|--------------------|-------------------|
-| ![Dashboard](screenshots/full-dashboard.png) | ![Schools](screenshots/schools-chart.png) | ![Pie](screenshots/subject-pie.png) | ![City-Gender](screenshots/city-gender.png) | ![Attendance](screenshots/attendance-bar.png) |
-
-*(Tip: Take screenshots with Excel window maximized, hide ribbon for clean look)*
 
 ## 🚀 Real-World Uses
 
