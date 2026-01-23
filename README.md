@@ -1,8 +1,7 @@
 # 🎓 Student Performance Analysis – Excel Dashboard Project
 
-https://medium.com/@danielchinedu_77517/what-are-the-top-five-personality-traits-that-predict-academic-success-1a465f79fc8d
+![](https://miro.medium.com/v2/resize:fit:1400/1*zEkD1ofWZnWTojCz0DTi1g.jpeg)
 
-*(Replace with a clean screenshot of your full Excel dashboard sheet – export as PNG/JPG)*
 
 **Fully Excel-based interactive dashboard** to analyze student marks, school performance, subject-wise averages, city comparisons, gender differences, and attendance impact — no external tools required.
 
