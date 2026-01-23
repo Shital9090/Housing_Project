@@ -9,7 +9,7 @@ https://medium.com/@danielchinedu_77517/what-are-the-top-five-personality-traits
 Built using **Microsoft Excel** features only: PivotTables, Pivot Charts, Slicers, Charts, Conditional Formatting, and smart layout design.
 
 ## Tool used :
-<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+https://github.com/Shital9090/Student-Performance-Analysis-/blob/main/microsoft-excel%20(1).png
 
 ## 📌 Project Overview
 
