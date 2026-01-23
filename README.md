@@ -68,8 +68,8 @@ Ideal for school/college reports, education analytics practice, or portfolio dem
 
 ## 📸 Screenshots
 
-![image](![Student Performance png]()
-)
+![image](![Student Performance png](https://github.com/Shital9090/Student-Performance-Analysis-/blob/main/Student_Analysis_Dashbord.png)
+
 
 
 ## 🚀 Real-World Uses
