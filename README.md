@@ -90,7 +90,7 @@ Ideal for school/college reports, education analytics practice, or portfolio dem
 
 ## 📬 Author
 
-**Shital**  
+**Shital Kamble**  
 Excel & Data Analytics Enthusiast  
 Location:Pune, Maharashtra, India  
 
