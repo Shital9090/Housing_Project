@@ -7,6 +7,9 @@
 
 Built using **Microsoft Excel** features only: PivotTables, Pivot Charts, Slicers, Charts, Conditional Formatting, and smart layout design.
 
+## Tool used :
+<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+
 ## 📌 Project Overview
 
 This Excel project transforms raw student marks data into an interactive, printable dashboard for quick insights:
