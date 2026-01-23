@@ -1,6 +1,6 @@
 # 🎓 Student Performance Analysis – Excel Dashboard Project
 
-![Uploading image.png…]()
+https://medium.com/@danielchinedu_77517/what-are-the-top-five-personality-traits-that-predict-academic-success-1a465f79fc8d
 
 *(Replace with a clean screenshot of your full Excel dashboard sheet – export as PNG/JPG)*
 
